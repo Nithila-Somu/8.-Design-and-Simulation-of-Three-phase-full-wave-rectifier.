@@ -43,7 +43,12 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
+![WhatsApp Image 2025-10-25 at 18 30 30_37d0f5ca](https://github.com/user-attachments/assets/3a2eb2f3-b609-4ed1-8ac2-0f1efcbd8796)
 
 ## Output
+<img width="1280" height="616" alt="image" src="https://github.com/user-attachments/assets/5f776bc9-5013-42d0-86ae-bb9bd262834e" />
+<img width="1280" height="614" alt="image" src="https://github.com/user-attachments/assets/32775ea0-f3a1-4090-9a98-96744a8737aa" />
+<img width="1280" height="623" alt="image" src="https://github.com/user-attachments/assets/b8ae55ad-7811-4e94-8aa8-bd80ce05b6ea" />
 
 ## Result
+Thus the three phase full wave rectifier is designed and simulated using MATLAB Simulink.
