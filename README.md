@@ -52,3 +52,4 @@ by going to Simulation ⇒ Start
 
 ## Result
 Thus the three phase full wave rectifier is designed and simulated using MATLAB Simulink.
+
